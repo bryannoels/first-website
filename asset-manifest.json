@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3e74d0d2.css",
-    "main.js": "/static/js/main.bcca63fe.js",
+    "main.css": "/static/css/main.e9b0a36f.css",
+    "main.js": "/static/js/main.4f2336b1.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/postCovidTourism.png": "/static/media/postCovidTourism.8a41704aa1c4fb01cc9b.png",
     "static/media/hangmanGame.png": "/static/media/hangmanGame.541d0385cb0784d5a735.png",
@@ -17,12 +17,12 @@
     "static/media/leadership.png": "/static/media/leadership.7c0fb5b7991357cfda88.png",
     "static/media/education.png": "/static/media/education.330e0067b7a33478efef.png",
     "index.html": "/index.html",
-    "main.3e74d0d2.css.map": "/static/css/main.3e74d0d2.css.map",
-    "main.bcca63fe.js.map": "/static/js/main.bcca63fe.js.map",
+    "main.e9b0a36f.css.map": "/static/css/main.e9b0a36f.css.map",
+    "main.4f2336b1.js.map": "/static/js/main.4f2336b1.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e74d0d2.css",
-    "static/js/main.bcca63fe.js"
+    "static/css/main.e9b0a36f.css",
+    "static/js/main.4f2336b1.js"
   ]
 }
