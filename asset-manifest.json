@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.a5e71e0b.css",
-    "main.js": "/website/static/js/main.2b6a4352.js",
-    "static/js/787.71e672d5.chunk.js": "/website/static/js/787.71e672d5.chunk.js",
-    "static/media/postCovidTourism.png": "/website/static/media/postCovidTourism.8a41704aa1c4fb01cc9b.png",
-    "static/media/hangmanGame.png": "/website/static/media/hangmanGame.541d0385cb0784d5a735.png",
-    "static/media/introductionToDynamicProgramming.png": "/website/static/media/introductionToDynamicProgramming.2dd1b1437daf12f27eb6.png",
-    "static/media/markdownPreviewer.png": "/website/static/media/markdownPreviewer.8d1932c535fb9f51f849.png",
-    "static/media/sudoku.png": "/website/static/media/sudoku.ee6e3fa26f16e40e305b.png",
-    "static/media/pomodoroTimer.png": "/website/static/media/pomodoroTimer.38ab04b1504204c582da.png",
-    "static/media/randomQuoteGenerator.png": "/website/static/media/randomQuoteGenerator.99452ee7e6b50c06225b.png",
-    "static/media/photo.png": "/website/static/media/photo.fee18bf00c1355942ff7.png",
-    "static/media/calculator.png": "/website/static/media/calculator.f74dfb03674ac2a66cd4.png",
-    "static/media/drumMachine.png": "/website/static/media/drumMachine.298faca37dffa5e7fc30.png",
-    "static/media/volunteerActivities.png": "/website/static/media/volunteerActivities.7ed5cb941f55dc5019bd.png",
-    "static/media/leadership.png": "/website/static/media/leadership.7c0fb5b7991357cfda88.png",
-    "static/media/education.png": "/website/static/media/education.330e0067b7a33478efef.png",
-    "index.html": "/website/index.html",
-    "main.a5e71e0b.css.map": "/website/static/css/main.a5e71e0b.css.map",
-    "main.2b6a4352.js.map": "/website/static/js/main.2b6a4352.js.map",
-    "787.71e672d5.chunk.js.map": "/website/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "/static/css/main.a5e71e0b.css",
+    "main.js": "/static/js/main.bcca63fe.js",
+    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
+    "static/media/postCovidTourism.png": "/static/media/postCovidTourism.8a41704aa1c4fb01cc9b.png",
+    "static/media/hangmanGame.png": "/static/media/hangmanGame.541d0385cb0784d5a735.png",
+    "static/media/introductionToDynamicProgramming.png": "/static/media/introductionToDynamicProgramming.2dd1b1437daf12f27eb6.png",
+    "static/media/markdownPreviewer.png": "/static/media/markdownPreviewer.8d1932c535fb9f51f849.png",
+    "static/media/sudoku.png": "/static/media/sudoku.ee6e3fa26f16e40e305b.png",
+    "static/media/pomodoroTimer.png": "/static/media/pomodoroTimer.38ab04b1504204c582da.png",
+    "static/media/randomQuoteGenerator.png": "/static/media/randomQuoteGenerator.99452ee7e6b50c06225b.png",
+    "static/media/photo.png": "/static/media/photo.fee18bf00c1355942ff7.png",
+    "static/media/calculator.png": "/static/media/calculator.f74dfb03674ac2a66cd4.png",
+    "static/media/drumMachine.png": "/static/media/drumMachine.298faca37dffa5e7fc30.png",
+    "static/media/volunteerActivities.png": "/static/media/volunteerActivities.7ed5cb941f55dc5019bd.png",
+    "static/media/leadership.png": "/static/media/leadership.7c0fb5b7991357cfda88.png",
+    "static/media/education.png": "/static/media/education.330e0067b7a33478efef.png",
+    "index.html": "/index.html",
+    "main.a5e71e0b.css.map": "/static/css/main.a5e71e0b.css.map",
+    "main.bcca63fe.js.map": "/static/js/main.bcca63fe.js.map",
+    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5e71e0b.css",
-    "static/js/main.2b6a4352.js"
+    "static/js/main.bcca63fe.js"
   ]
 }
