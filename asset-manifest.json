@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website/static/css/main.a5e71e0b.css",
-    "main.js": "/website/static/js/main.c6b36e9b.js",
+    "main.js": "/website/static/js/main.2b6a4352.js",
     "static/js/787.71e672d5.chunk.js": "/website/static/js/787.71e672d5.chunk.js",
     "static/media/postCovidTourism.png": "/website/static/media/postCovidTourism.8a41704aa1c4fb01cc9b.png",
     "static/media/hangmanGame.png": "/website/static/media/hangmanGame.541d0385cb0784d5a735.png",
@@ -18,11 +18,11 @@
     "static/media/education.png": "/website/static/media/education.330e0067b7a33478efef.png",
     "index.html": "/website/index.html",
     "main.a5e71e0b.css.map": "/website/static/css/main.a5e71e0b.css.map",
-    "main.c6b36e9b.js.map": "/website/static/js/main.c6b36e9b.js.map",
+    "main.2b6a4352.js.map": "/website/static/js/main.2b6a4352.js.map",
     "787.71e672d5.chunk.js.map": "/website/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5e71e0b.css",
-    "static/js/main.c6b36e9b.js"
+    "static/js/main.2b6a4352.js"
   ]
 }
